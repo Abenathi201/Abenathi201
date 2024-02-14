@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I am Abenathi Sindapi
 
-<!--
-**Abenathi201/Abenathi201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 I'm a full-stack developer based in Cape Town.
 
-Here are some ideas to get you started:
+🌱 I'm currently learning networking basics and getting ready for AWS certification.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Experienced in HTML, CSS, JavaScript, Vue.js, Node.js, and MySQL.
+
+🔍 Actively seeking entry-level opportunities to grow as a developer.
+
+📧 You can reach me via email at abenathi.sindaphi201@gmail.com.
+
+🔗 Let's connect on LinkedIn my link is on my description!
