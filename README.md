@@ -2,8 +2,6 @@
 
 👨‍💻 I'm a full-stack developer based in Cape Town.
 
-🌱 I'm currently learning networking basics and getting ready for AWS certification.
-
 🎓 Experienced in HTML, CSS, JavaScript, Vue.js, Node.js, and MySQL.
 
 🔍 Actively seeking entry-level opportunities to grow as a developer.
