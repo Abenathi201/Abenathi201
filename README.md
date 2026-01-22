@@ -6,7 +6,7 @@
 
 🔍 Actively seeking entry-level opportunities to grow as a developer.
 
-🌐 Check out my latest project: https://portfolio-vue-olive.vercel.app/
+🌐 Check out my latest project: https://professional-portfolio-phi-kohl.vercel.app/
 
 📧 You can reach me via email at abenathi.sindaphi201@gmail.com.
 
