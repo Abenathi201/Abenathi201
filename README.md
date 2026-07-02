@@ -1,13 +1,16 @@
-### Hi there 👋, I am Abenathi Sindapi
+### Abenathi Sindapi — Junior Software Developer
 
-👨‍💻 I'm a full-stack developer based in Cape Town.
+Based in Cape Town. I build web applications with React and Node.js 
+and spend my days at KwantuIT testing enterprise systems, managing 
+databases, and fixing things before users notice they were broken.
 
-🎓 Experienced in HTML, CSS, JavaScript, Vue.js, Node.js, and MySQL.
+**What I work with:**
+React · Node.js · Express · JavaScript · Tailwind CSS · MySQL · Git
 
-🔍 Actively seeking entry-level opportunities to grow as a developer.
+**Things I have built:**
+- 🌐 [Portfolio](https://professional-portfolio-phi-kohl.vercel.app)
+- 🎨 [Ricky DaVinci Studios](https://rickydavincistudios.vercel.app)
+- ⚙️ [Harambee Server](https://github.com/Abenathi201/harambee-server)
 
-🌐 Check out my latest project: https://professional-portfolio-phi-kohl.vercel.app/
-
-📧 You can reach me via email at abenathi.sindaphi201@gmail.com.
-
-🔗 Let's connect on LinkedIn my link is on my description!
+📧 abenathi.sindaphi201@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/abenathi-sindapi-420969270/)
